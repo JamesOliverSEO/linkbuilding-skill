@@ -37,6 +37,8 @@ git clone https://github.com/JamesOliverSEO/linkbuilding-skill ~/.claude/skills/
 ```
 
 > [!TIP]
+> `npx skills add` needs Node 22.20 or newer. On older Node it fails with `does not provide an export named 'glob'`: update Node, or use the `git clone` line instead.
+>
 > If you run `npx skills add` from inside an agent session, pass the agent explicitly, for example `npx skills add JamesOliverSEO/linkbuilding-skill -a claude-code`.
 
 **2. Ask in plain English:**
