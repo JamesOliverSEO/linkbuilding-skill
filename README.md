@@ -64,7 +64,7 @@ That's it. It asks for anything it needs, picks a tactic, and walks you through 
 
 ## What works free, and what needs DataForSEO
 
-The toolkit is one Python file with no installs. Most of it is free. The backlink lookups use the [DataForSEO](https://dataforseo.com) Backlinks API, which is pay as you go. The skill always shows an estimate and waits for a yes before spending anything.
+The toolkit is one Python file with no installs. Most of it is free. The backlink lookups use the [DataForSEO](https://dataforseo.com/?aff=62023770-bfef-4587-b9a7-a054b5b8d88f) Backlinks API, which is pay as you go. The skill always shows an estimate and waits for a yes before spending anything.
 
 | Tactic | Without DataForSEO | Rough cost with it |
 |---|---|---|
@@ -81,7 +81,7 @@ The toolkit is one Python file with no installs. Most of it is free. The backlin
 
 Costs measured in October 2026: about 2.4 US cents per call plus a tiny amount per row. Running all ten for one site costs well under a dollar.
 
-To connect it, set your DataForSEO API login:
+To connect it, [create a DataForSEO account](https://dataforseo.com/?aff=62023770-bfef-4587-b9a7-a054b5b8d88f), then set your API login:
 
 ```bash
 export DATAFORSEO_LOGIN="your-login"
