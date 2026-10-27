@@ -110,6 +110,17 @@ linkbuilding-skill/
 - One follow-up per prospect, then it stops.
 - One conversation per site at a time, tracked in one CSV.
 
+### Disclaimer
+
+This skill is provided as is, with no warranty (see [LICENSE](LICENSE)). Use it at your own risk.
+
+- **You send the emails, so you are responsible for them.** The skill only drafts. Follow the outreach and privacy laws where you and your contacts are (for example CAN-SPAM, GDPR and PECR), and honour opt-outs.
+- **Third-party costs are yours.** DataForSEO calls are billed to your own account. The estimates shown are approximate.
+- **No guaranteed results.** This is not legal or professional SEO advice. Rankings and links are never guaranteed.
+- **Be a good citizen.** The toolkit makes light, polite requests. Respect each site's terms and don't hammer servers.
+- **Not affiliated** with Anthropic, OpenAI, Cursor or DataForSEO. Product names belong to their owners.
+- **Affiliate link:** the DataForSEO link in this README is an affiliate link. I may earn a commission at no cost to you.
+
 ## Questions and ideas
 
 Found a bug, or a tactic that should work differently? [Open an issue](https://github.com/JamesOliverSEO/linkbuilding-skill/issues).
