@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+linkbuilding/
+runs/
+*.csv
+!tracker-template.csv
